@@ -1,2 +1,2 @@
 # rizqiazmi.github.io
-creative my website
+I got started on the web in the early aughts when I created a gallery for my creative work. I call it a gallery because it was just that: a blank space with images in a row that linked to some projects I wanted to share with friends. Since then my site has evolved, disappeared, come back, and spawned other sites that express my ideas and identity online. Each evolution was a chance to share new work in a way that reflected how I wanted people to experience it.
